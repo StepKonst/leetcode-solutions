@@ -35,7 +35,3 @@ class Solution:
                 right -= 1
 
         return "".join(word)
-
-
-example = Solution()
-print(example.reverseVowels(s="leetcode"))
